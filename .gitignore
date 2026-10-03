@@ -1,0 +1,12 @@
+# the upstream repo the scripts read from
+github-mcp-server/
+
+node_modules/
+package-lock.json
+package.json
+
+__pycache__/
+*.py[cod]
+.venv/
+
+.DS_Store

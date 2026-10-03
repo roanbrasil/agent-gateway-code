@@ -1,0 +1,788 @@
+[
+ {
+  "name": "projects_write",
+  "tokens": 1567,
+  "readOnly": false,
+  "file": "projects_write.snap"
+ },
+ {
+  "name": "custom_properties_write",
+  "tokens": 819,
+  "readOnly": false,
+  "file": "custom_properties_write.snap"
+ },
+ {
+  "name": "issue_write",
+  "tokens": 793,
+  "readOnly": false,
+  "file": "issue_write.snap"
+ },
+ {
+  "name": "repository_ruleset_read",
+  "tokens": 783,
+  "readOnly": true,
+  "file": "repository_ruleset_read.snap"
+ },
+ {
+  "name": "create_repository_ruleset",
+  "tokens": 730,
+  "readOnly": false,
+  "file": "create_repository_ruleset.snap"
+ },
+ {
+  "name": "actions_list",
+  "tokens": 578,
+  "readOnly": true,
+  "file": "actions_list.snap"
+ },
+ {
+  "name": "pull_request_read",
+  "tokens": 546,
+  "readOnly": true,
+  "file": "pull_request_read.snap"
+ },
+ {
+  "name": "set_issue_fields",
+  "tokens": 540,
+  "readOnly": false,
+  "file": "set_issue_fields.snap"
+ },
+ {
+  "name": "list_issues",
+  "tokens": 535,
+  "readOnly": true,
+  "file": "list_issues.snap"
+ },
+ {
+  "name": "projects_list",
+  "tokens": 489,
+  "readOnly": true,
+  "file": "projects_list.snap"
+ },
+ {
+  "name": "pull_request_review_write",
+  "tokens": 463,
+  "readOnly": false,
+  "file": "pull_request_review_write.snap"
+ },
+ {
+  "name": "projects_get",
+  "tokens": 456,
+  "readOnly": true,
+  "file": "projects_get.snap"
+ },
+ {
+  "name": "search_issues",
+  "tokens": 426,
+  "readOnly": true,
+  "file": "search_issues.snap"
+ },
+ {
+  "name": "update_issue_state",
+  "tokens": 422,
+  "readOnly": false,
+  "file": "update_issue_state.snap"
+ },
+ {
+  "name": "assign_copilot_to_issue_with_intent",
+  "tokens": 396,
+  "readOnly": false,
+  "file": "assign_copilot_to_issue_with_intent.snap"
+ },
+ {
+  "name": "search_pull_requests",
+  "tokens": 390,
+  "readOnly": true,
+  "file": "search_pull_requests.snap"
+ },
+ {
+  "name": "list_commits",
+  "tokens": 387,
+  "readOnly": true,
+  "file": "list_commits.snap"
+ },
+ {
+  "name": "search_code",
+  "tokens": 385,
+  "readOnly": true,
+  "file": "search_code.snap"
+ },
+ {
+  "name": "search_commits",
+  "tokens": 378,
+  "readOnly": true,
+  "file": "search_commits.snap"
+ },
+ {
+  "name": "discussion_comment_write",
+  "tokens": 370,
+  "readOnly": false,
+  "file": "discussion_comment_write.snap"
+ },
+ {
+  "name": "list_pull_requests",
+  "tokens": 365,
+  "readOnly": true,
+  "file": "list_pull_requests.snap"
+ },
+ {
+  "name": "list_global_security_advisories",
+  "tokens": 359,
+  "readOnly": true,
+  "file": "list_global_security_advisories.snap"
+ },
+ {
+  "name": "sub_issue_write",
+  "tokens": 359,
+  "readOnly": false,
+  "file": "sub_issue_write.snap"
+ },
+ {
+  "name": "list_notifications",
+  "tokens": 357,
+  "readOnly": true,
+  "file": "list_notifications.snap"
+ },
+ {
+  "name": "update_issue_assignees",
+  "tokens": 357,
+  "readOnly": false,
+  "file": "update_issue_assignees.snap"
+ },
+ {
+  "name": "create_or_update_file",
+  "tokens": 353,
+  "readOnly": false,
+  "file": "create_or_update_file.snap"
+ },
+ {
+  "name": "get_file_blame",
+  "tokens": 350,
+  "readOnly": true,
+  "file": "get_file_blame.snap"
+ },
+ {
+  "name": "issue_dependency_write",
+  "tokens": 341,
+  "readOnly": false,
+  "file": "issue_dependency_write_ff_issue_dependencies.snap"
+ },
+ {
+  "name": "update_issue_labels",
+  "tokens": 339,
+  "readOnly": false,
+  "file": "update_issue_labels.snap"
+ },
+ {
+  "name": "update_issue_type",
+  "tokens": 336,
+  "readOnly": false,
+  "file": "update_issue_type.snap"
+ },
+ {
+  "name": "issue_read",
+  "tokens": 321,
+  "readOnly": true,
+  "file": "issue_read.snap"
+ },
+ {
+  "name": "add_comment_to_pending_review",
+  "tokens": 318,
+  "readOnly": false,
+  "file": "add_comment_to_pending_review.snap"
+ },
+ {
+  "name": "actions_get",
+  "tokens": 265,
+  "readOnly": true,
+  "file": "actions_get.snap"
+ },
+ {
+  "name": "add_issue_comment",
+  "tokens": 259,
+  "readOnly": false,
+  "file": "add_issue_comment.snap"
+ },
+ {
+  "name": "get_file_contents",
+  "tokens": 256,
+  "readOnly": true,
+  "file": "get_file_contents.snap"
+ },
+ {
+  "name": "add_pull_request_review_comment",
+  "tokens": 255,
+  "readOnly": false,
+  "file": "add_pull_request_review_comment.snap"
+ },
+ {
+  "name": "custom_properties_read",
+  "tokens": 248,
+  "readOnly": true,
+  "file": "custom_properties_read.snap"
+ },
+ {
+  "name": "search_repositories",
+  "tokens": 248,
+  "readOnly": true,
+  "file": "search_repositories.snap"
+ },
+ {
+  "name": "actions_run_trigger",
+  "tokens": 247,
+  "readOnly": false,
+  "file": "actions_run_trigger.snap"
+ },
+ {
+  "name": "find_duplicate",
+  "tokens": 246,
+  "readOnly": true,
+  "file": "find_duplicate_ff_duplicate_detection.snap"
+ },
+ {
+  "name": "add_reply_to_pull_request_comment",
+  "tokens": 244,
+  "readOnly": false,
+  "file": "add_reply_to_pull_request_comment.snap"
+ },
+ {
+  "name": "issue_dependency_read",
+  "tokens": 239,
+  "readOnly": true,
+  "file": "issue_dependency_read_ff_issue_dependencies.snap"
+ },
+ {
+  "name": "list_code_scanning_alerts",
+  "tokens": 233,
+  "readOnly": true,
+  "file": "list_code_scanning_alerts.snap"
+ },
+ {
+  "name": "get_commit",
+  "tokens": 231,
+  "readOnly": true,
+  "file": "get_commit.snap"
+ },
+ {
+  "name": "list_repository_collaborators",
+  "tokens": 230,
+  "readOnly": true,
+  "file": "list_repository_collaborators.snap"
+ },
+ {
+  "name": "list_secret_scanning_alerts",
+  "tokens": 223,
+  "readOnly": true,
+  "file": "list_secret_scanning_alerts.snap"
+ },
+ {
+  "name": "create_issue",
+  "tokens": 220,
+  "readOnly": false,
+  "file": "create_issue.snap"
+ },
+ {
+  "name": "assign_copilot_to_issue",
+  "tokens": 219,
+  "readOnly": false,
+  "file": "assign_copilot_to_issue.snap"
+ },
+ {
+  "name": "label_write",
+  "tokens": 219,
+  "readOnly": false,
+  "file": "label_write.snap"
+ },
+ {
+  "name": "update_pull_request",
+  "tokens": 211,
+  "readOnly": false,
+  "file": "update_pull_request.snap"
+ },
+ {
+  "name": "list_discussions",
+  "tokens": 206,
+  "readOnly": true,
+  "file": "list_discussions.snap"
+ },
+ {
+  "name": "list_releases",
+  "tokens": 199,
+  "readOnly": true,
+  "file": "list_releases.snap"
+ },
+ {
+  "name": "search_users",
+  "tokens": 197,
+  "readOnly": true,
+  "file": "search_users.snap"
+ },
+ {
+  "name": "reprioritize_sub_issue",
+  "tokens": 196,
+  "readOnly": false,
+  "file": "reprioritize_sub_issue.snap"
+ },
+ {
+  "name": "search_orgs",
+  "tokens": 192,
+  "readOnly": true,
+  "file": "search_orgs.snap"
+ },
+ {
+  "name": "list_dependabot_alerts",
+  "tokens": 187,
+  "readOnly": true,
+  "file": "list_dependabot_alerts.snap"
+ },
+ {
+  "name": "create_pull_request",
+  "tokens": 181,
+  "readOnly": false,
+  "file": "create_pull_request.snap"
+ },
+ {
+  "name": "create_pull_request_review",
+  "tokens": 181,
+  "readOnly": false,
+  "file": "create_pull_request_review.snap"
+ },
+ {
+  "name": "get_job_logs",
+  "tokens": 181,
+  "readOnly": true,
+  "file": "get_job_logs.snap"
+ },
+ {
+  "name": "hide_pull_request_review_comment",
+  "tokens": 181,
+  "readOnly": false,
+  "file": "hide_pull_request_review_comment.snap"
+ },
+ {
+  "name": "hide_pull_request_review",
+  "tokens": 178,
+  "readOnly": false,
+  "file": "hide_pull_request_review.snap"
+ },
+ {
+  "name": "get_repository_tree",
+  "tokens": 177,
+  "readOnly": true,
+  "file": "get_repository_tree.snap"
+ },
+ {
+  "name": "list_starred_repositories",
+  "tokens": 175,
+  "readOnly": true,
+  "file": "list_starred_repositories.snap"
+ },
+ {
+  "name": "get_discussion_comments",
+  "tokens": 171,
+  "readOnly": true,
+  "file": "get_discussion_comments.snap"
+ },
+ {
+  "name": "push_files",
+  "tokens": 169,
+  "readOnly": false,
+  "file": "push_files.snap"
+ },
+ {
+  "name": "hide_issue_comment",
+  "tokens": 164,
+  "readOnly": false,
+  "file": "hide_issue_comment.snap"
+ },
+ {
+  "name": "add_pull_request_review_comment_reaction",
+  "tokens": 157,
+  "readOnly": false,
+  "file": "add_pull_request_review_comment_reaction.snap"
+ },
+ {
+  "name": "merge_pull_request",
+  "tokens": 154,
+  "readOnly": false,
+  "file": "merge_pull_request.snap"
+ },
+ {
+  "name": "add_sub_issue",
+  "tokens": 146,
+  "readOnly": false,
+  "file": "add_sub_issue.snap"
+ },
+ {
+  "name": "remove_pull_request_review_comment_reaction",
+  "tokens": 140,
+  "readOnly": false,
+  "file": "remove_pull_request_review_comment_reaction.snap"
+ },
+ {
+  "name": "unhide_pull_request_review_comment",
+  "tokens": 140,
+  "readOnly": false,
+  "file": "unhide_pull_request_review_comment.snap"
+ },
+ {
+  "name": "list_issue_fields",
+  "tokens": 137,
+  "readOnly": true,
+  "file": "list_issue_fields.snap"
+ },
+ {
+  "name": "ui_get",
+  "tokens": 137,
+  "readOnly": true,
+  "file": "ui_get.snap"
+ },
+ {
+  "name": "unhide_pull_request_review",
+  "tokens": 137,
+  "readOnly": false,
+  "file": "unhide_pull_request_review.snap"
+ },
+ {
+  "name": "list_repository_security_advisories",
+  "tokens": 135,
+  "readOnly": true,
+  "file": "list_repository_security_advisories.snap"
+ },
+ {
+  "name": "add_issue_comment_reaction",
+  "tokens": 132,
+  "readOnly": false,
+  "file": "add_issue_comment_reaction.snap"
+ },
+ {
+  "name": "submit_pending_pull_request_review",
+  "tokens": 132,
+  "readOnly": false,
+  "file": "submit_pending_pull_request_review.snap"
+ },
+ {
+  "name": "update_issue_comment",
+  "tokens": 132,
+  "readOnly": false,
+  "file": "update_issue_comment.snap"
+ },
+ {
+  "name": "create_repository",
+  "tokens": 127,
+  "readOnly": false,
+  "file": "create_repository.snap"
+ },
+ {
+  "name": "add_issue_reaction",
+  "tokens": 126,
+  "readOnly": false,
+  "file": "add_issue_reaction.snap"
+ },
+ {
+  "name": "list_gists",
+  "tokens": 126,
+  "readOnly": true,
+  "file": "list_gists.snap"
+ },
+ {
+  "name": "unhide_issue_comment",
+  "tokens": 122,
+  "readOnly": false,
+  "file": "unhide_issue_comment.snap"
+ },
+ {
+  "name": "request_pull_request_reviewers",
+  "tokens": 121,
+  "readOnly": false,
+  "file": "request_pull_request_reviewers.snap"
+ },
+ {
+  "name": "remove_sub_issue",
+  "tokens": 120,
+  "readOnly": false,
+  "file": "remove_sub_issue.snap"
+ },
+ {
+  "name": "list_org_repository_security_advisories",
+  "tokens": 117,
+  "readOnly": true,
+  "file": "list_org_repository_security_advisories.snap"
+ },
+ {
+  "name": "update_pull_request_draft_state",
+  "tokens": 117,
+  "readOnly": false,
+  "file": "update_pull_request_draft_state.snap"
+ },
+ {
+  "name": "update_pull_request_state",
+  "tokens": 117,
+  "readOnly": false,
+  "file": "update_pull_request_state.snap"
+ },
+ {
+  "name": "remove_issue_comment_reaction",
+  "tokens": 115,
+  "readOnly": false,
+  "file": "remove_issue_comment_reaction.snap"
+ },
+ {
+  "name": "list_branches",
+  "tokens": 113,
+  "readOnly": true,
+  "file": "list_branches.snap"
+ },
+ {
+  "name": "list_tags",
+  "tokens": 113,
+  "readOnly": true,
+  "file": "list_tags.snap"
+ },
+ {
+  "name": "update_issue_milestone",
+  "tokens": 113,
+  "readOnly": false,
+  "file": "update_issue_milestone.snap"
+ },
+ {
+  "name": "delete_file",
+  "tokens": 112,
+  "readOnly": false,
+  "file": "delete_file.snap"
+ },
+ {
+  "name": "manage_repository_notification_subscription",
+  "tokens": 112,
+  "readOnly": false,
+  "file": "manage_repository_notification_subscription.snap"
+ },
+ {
+  "name": "remove_issue_reaction",
+  "tokens": 109,
+  "readOnly": false,
+  "file": "remove_issue_reaction.snap"
+ },
+ {
+  "name": "mark_all_notifications_read",
+  "tokens": 108,
+  "readOnly": false,
+  "file": "mark_all_notifications_read.snap"
+ },
+ {
+  "name": "update_pull_request_body",
+  "tokens": 107,
+  "readOnly": false,
+  "file": "update_pull_request_body.snap"
+ },
+ {
+  "name": "update_issue_body",
+  "tokens": 105,
+  "readOnly": false,
+  "file": "update_issue_body.snap"
+ },
+ {
+  "name": "update_pull_request_branch",
+  "tokens": 105,
+  "readOnly": false,
+  "file": "update_pull_request_branch.snap"
+ },
+ {
+  "name": "update_pull_request_title",
+  "tokens": 105,
+  "readOnly": false,
+  "file": "update_pull_request_title.snap"
+ },
+ {
+  "name": "update_issue_title",
+  "tokens": 103,
+  "readOnly": false,
+  "file": "update_issue_title.snap"
+ },
+ {
+  "name": "list_issue_types",
+  "tokens": 101,
+  "readOnly": true,
+  "file": "list_issue_types.snap"
+ },
+ {
+  "name": "create_gist",
+  "tokens": 97,
+  "readOnly": false,
+  "file": "create_gist.snap"
+ },
+ {
+  "name": "request_copilot_review",
+  "tokens": 97,
+  "readOnly": false,
+  "file": "request_copilot_review.snap"
+ },
+ {
+  "name": "update_gist",
+  "tokens": 94,
+  "readOnly": false,
+  "file": "update_gist.snap"
+ },
+ {
+  "name": "create_branch",
+  "tokens": 93,
+  "readOnly": false,
+  "file": "create_branch.snap"
+ },
+ {
+  "name": "manage_notification_subscription",
+  "tokens": 91,
+  "readOnly": false,
+  "file": "manage_notification_subscription.snap"
+ },
+ {
+  "name": "get_code_quality_finding",
+  "tokens": 90,
+  "readOnly": true,
+  "file": "get_code_quality_finding.snap"
+ },
+ {
+  "name": "get_code_scanning_alert",
+  "tokens": 90,
+  "readOnly": true,
+  "file": "get_code_scanning_alert.snap"
+ },
+ {
+  "name": "get_release_by_tag",
+  "tokens": 90,
+  "readOnly": true,
+  "file": "get_release_by_tag.snap"
+ },
+ {
+  "name": "get_secret_scanning_alert",
+  "tokens": 90,
+  "readOnly": true,
+  "file": "get_secret_scanning_alert.snap"
+ },
+ {
+  "name": "get_dependabot_alert",
+  "tokens": 89,
+  "readOnly": true,
+  "file": "get_dependabot_alert.snap"
+ },
+ {
+  "name": "list_label",
+  "tokens": 86,
+  "readOnly": true,
+  "file": "list_label.snap"
+ },
+ {
+  "name": "delete_pending_pull_request_review",
+  "tokens": 85,
+  "readOnly": false,
+  "file": "delete_pending_pull_request_review.snap"
+ },
+ {
+  "name": "unresolve_review_thread",
+  "tokens": 82,
+  "readOnly": false,
+  "file": "unresolve_review_thread.snap"
+ },
+ {
+  "name": "dismiss_notification",
+  "tokens": 81,
+  "readOnly": false,
+  "file": "dismiss_notification.snap"
+ },
+ {
+  "name": "get_team_members",
+  "tokens": 77,
+  "readOnly": true,
+  "file": "get_team_members.snap"
+ },
+ {
+  "name": "list_discussion_categories",
+  "tokens": 77,
+  "readOnly": true,
+  "file": "list_discussion_categories.snap"
+ },
+ {
+  "name": "get_label",
+  "tokens": 76,
+  "readOnly": true,
+  "file": "get_label.snap"
+ },
+ {
+  "name": "get_notification_details",
+  "tokens": 75,
+  "readOnly": true,
+  "file": "get_notification_details.snap"
+ },
+ {
+  "name": "get_tag",
+  "tokens": 75,
+  "readOnly": true,
+  "file": "get_tag.snap"
+ },
+ {
+  "name": "resolve_review_thread",
+  "tokens": 75,
+  "readOnly": false,
+  "file": "resolve_review_thread.snap"
+ },
+ {
+  "name": "fork_repository",
+  "tokens": 74,
+  "readOnly": false,
+  "file": "fork_repository.snap"
+ },
+ {
+  "name": "get_discussion",
+  "tokens": 72,
+  "readOnly": true,
+  "file": "get_discussion.snap"
+ },
+ {
+  "name": "delete_repository",
+  "tokens": 69,
+  "readOnly": false,
+  "file": "delete_repository.snap"
+ },
+ {
+  "name": "get_global_security_advisory",
+  "tokens": 63,
+  "readOnly": true,
+  "file": "get_global_security_advisory.snap"
+ },
+ {
+  "name": "get_teams",
+  "tokens": 62,
+  "readOnly": true,
+  "file": "get_teams.snap"
+ },
+ {
+  "name": "get_latest_release",
+  "tokens": 59,
+  "readOnly": true,
+  "file": "get_latest_release.snap"
+ },
+ {
+  "name": "unstar_repository",
+  "tokens": 56,
+  "readOnly": false,
+  "file": "unstar_repository.snap"
+ },
+ {
+  "name": "get_me",
+  "tokens": 54,
+  "readOnly": true,
+  "file": "get_me.snap"
+ },
+ {
+  "name": "star_repository",
+  "tokens": 54,
+  "readOnly": false,
+  "file": "star_repository.snap"
+ },
+ {
+  "name": "get_gist",
+  "tokens": 52,
+  "readOnly": true,
+  "file": "get_gist.snap"
+ }
+]
